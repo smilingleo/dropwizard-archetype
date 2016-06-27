@@ -9,7 +9,7 @@ mvn install
 Then, you can create your project with:
 
 ```
-mvn archetype:generate -DarchetypeGroupId=com.zuora -DarchetypeArtifactId=dropwizard-template -DarchetypeVersion=1.0 -DgroupId=com.zuora -DartifactId=my-project
+mvn archetype:generate -DarchetypeGroupId=com.zuora -DarchetypeArtifactId=dropwizard-template -DarchetypeVersion=0.1 -DgroupId=com.zuora -DartifactId=my-project
 ```
 
 
